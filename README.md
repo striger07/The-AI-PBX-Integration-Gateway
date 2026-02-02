@@ -179,7 +179,7 @@ Before you begin, ensure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/striger07/The-AI-PBX-Integration-Gateway
 cd ai-pbx-gateway
 ```
 
@@ -391,7 +391,6 @@ This project demonstrates essential backend engineering principles:
 </div>
 
 <br>
-
 
 
 
