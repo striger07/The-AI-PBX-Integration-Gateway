@@ -393,63 +393,10 @@ This project demonstrates essential backend engineering principles:
 <br>
 
 
-## 📄 License
-
-<div align="center">
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-</div>
-
-<br>
 
 
-## 🤝 Contributing
-
-<div align="center">
-
-Contributions, issues, and feature requests are welcome!
-
-</div>
-
-<table>
-<tr>
-<td>
-
-1. **Fork** the repository
-2. Create your feature branch
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your changes
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. Push to the branch
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. Open a **Pull Request**
-
-</td>
-</tr>
-</table>
-
-<br>
 
 
-## 📞 Support
 
-<div align="center">
-
-If you have any questions or need help, feel free to:
-
-📧 **Open an issue** · 💬 **Start a discussion** · ⭐ **Star this repository if you find it helpful!**
-
-</div>
-
-<br>
-
----
 
 
